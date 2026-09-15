@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+listings.csv
+listings_cleaned.csv
+train.csv
+test.csv
+
+*.pkl
+
